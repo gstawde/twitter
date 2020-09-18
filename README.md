@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![App Walkthrough](/flix.gif)
+![App Walkthrough](/twitter.gif.sb-6a5e7326-DEdVqs)
