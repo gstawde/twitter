@@ -15,6 +15,7 @@
 		6EBCF54E21E71F9400451C03 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EBCF54D21E71F9400451C03 /* Launch Screen.storyboard */; };
 		D465E3802513FB0F0085ECEC /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D465E37F2513FB0F0085ECEC /* LoginViewController.swift */; };
 		D465E38225145FEE0085ECEC /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D465E38125145FEE0085ECEC /* HomeTableViewController.swift */; };
+		D4FDDA9C2514750300222A27 /* TweetCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FDDA9B2514750300222A27 /* TweetCellTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		C2D685C92646819A9A0DC30C /* Pods-Twitter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Twitter.release.xcconfig"; path = "Pods/Target Support Files/Pods-Twitter/Pods-Twitter.release.xcconfig"; sourceTree = "<group>"; };
 		D465E37F2513FB0F0085ECEC /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		D465E38125145FEE0085ECEC /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
+		D4FDDA9B2514750300222A27 /* TweetCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCellTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				6EBCF53121DF07FE00451C03 /* Info.plist */,
 				D465E37F2513FB0F0085ECEC /* LoginViewController.swift */,
 				D465E38125145FEE0085ECEC /* HomeTableViewController.swift */,
+				D4FDDA9B2514750300222A27 /* TweetCellTableViewCell.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				D465E38225145FEE0085ECEC /* HomeTableViewController.swift in Sources */,
 				D465E3802513FB0F0085ECEC /* LoginViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
+				D4FDDA9C2514750300222A27 /* TweetCellTableViewCell.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
